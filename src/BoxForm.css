@@ -1,0 +1,25 @@
+.BoxForm {
+    display: flex;
+    margin: 10px auto;
+}
+
+#backgroundColor {
+    margin: 1em;
+}
+
+#width {
+    margin: 1em;
+}
+
+#height {
+    margin: 1em;
+}
+
+label {
+    color: rgb(220, 189, 9);
+}
+
+.box-form-button {
+    color: rgb(220, 189, 9);
+    background-color: rgb(9, 165, 165);
+}
